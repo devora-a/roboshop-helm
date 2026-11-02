@@ -1,4 +1,4 @@
 statefulset:
   replicas: 1
-  imageRepo: joindevops/mongodb
+  imageRepo: aravinddharla/mongodb
   imageVersion: 4.0.0
